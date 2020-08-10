@@ -12,7 +12,7 @@ body {
 
 article {
     display: flex;
-    flex-wrap: wrap
+    flex-wrap: wrap;
 }
 
 article section {
@@ -31,7 +31,7 @@ article section {
 
 article section#selling-points {
     flex-grow: 2;
-    flex-basis: 100%
+    flex-basis: 100%;
 }
 
 article code {
@@ -47,18 +47,19 @@ article code {
     overflow: auto;
     padding: 1em 1.5em;
     display: block;
-    word-wrap: break-word
+    word-wrap: break-word;
 }
 
 article code.before {
     float: left;
-    width: 40%
+    width: 40%;
 }
 
 article code.after {
     float: right;
-    width: 40%
+    width: 40%;
 }
+
 
 h1,
 h2,

@@ -35,11 +35,13 @@ body {
 }
 
 .class-for-example {
-  color: blue;
+  color: #010178;
+  background-color: white;
 }
 
 .class-for-examplered {
   color: red;
+  background-color: black;
 }
 
 article {
