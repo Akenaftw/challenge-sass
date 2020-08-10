@@ -1,4 +1,4 @@
-https://akenaftw.github.io/challenge-sass/
+https://akenaftw.github.io/challenge-sass/example.html
 
 # Title: SASS: 
 
